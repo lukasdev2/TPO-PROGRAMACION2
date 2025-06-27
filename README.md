@@ -29,13 +29,24 @@ Ventajas:
 
 ## 🧱 Estructura del proyecto
 src/
+
 ├── algoritmo/
+
 │ └── Dijkstra.java # Implementación del algoritmo
+
 ├── interfaces/
+
 │ ├── IGrafo.java # Interfaz para el TDA Grafo
+
 │ └── INodo.java # Interfaz para el TDA Nodo
+
 ├── modelo/
+
 │ ├── Grafo.java # TDA que representa la red urbana
+
 │ └── Nodo.java # TDA de intersección
+
 └── test/
+
 └── TestGrafos.java # Test que ejecuta el sistema completo
+
