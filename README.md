@@ -1,12 +1,12 @@
 # TPO Programación II - Ambulancia: Ruta más rápida
 
-## 🎯 Objetivo
+##  Objetivo
 
 Simular la elección de la **ruta más rápida para una ambulancia** desde su base hasta un hospital central, utilizando grafos ponderados y el algoritmo de Dijkstra implementado bajo el paradigma TDA (Tipos Abstractos de Datos).
 
 ---
 
-## 🏙️ Descripción del problema
+## 🏙 Descripción del problema
 
 - La ciudad se representa como un **grafo** donde:
   - Cada **nodo** es una intersección.
@@ -16,7 +16,7 @@ Simular la elección de la **ruta más rápida para una ambulancia** desde su ba
 
 ---
 
-## 🧠 Algoritmo utilizado
+##  Algoritmo utilizado
 
 Se utilizó el **algoritmo de Dijkstra**, que permite calcular el camino más corto desde un nodo origen hasta todos los nodos accesibles, garantizando la **mínima distancia temporal** cuando todos los pesos son positivos.
 
@@ -27,7 +27,7 @@ Ventajas:
 
 ---
 
-## 🧱 Estructura del proyecto
+##  Estructura del proyecto
 src/
 
 ├── algoritmo/
