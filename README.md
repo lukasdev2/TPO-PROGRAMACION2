@@ -6,7 +6,7 @@ Simular la elección de la **ruta más rápida para una ambulancia** desde su ba
 
 ---
 
-## 🏙 Descripción del problema
+## Descripción del problema
 
 - La ciudad se representa como un **grafo** donde:
   - Cada **nodo** es una intersección.
