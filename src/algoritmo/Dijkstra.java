@@ -5,7 +5,7 @@ import modelo.Grafo;
 import modelo.Nodo;
 
 import java.util.*;
-
+//algoritmo mejorado y optimizado 
 public class Dijkstra {
 
     public static List<Integer> calcularRutaMasCorta(Grafo grafo, int origen, int destino) {
